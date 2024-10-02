@@ -33,7 +33,8 @@
 ## Como Executar
 
 1. Clone este repositório:
-   ```bash git clone https://github.com/VicxMoura/Checkpoin-05.git
+   ```bash 
+   git clone https://github.com/VicxMoura/Checkpoin-05.git
 
 2. Abra o arquivo index.html no navegador.
 
