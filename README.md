@@ -24,8 +24,8 @@
 ## Estrutura do Projeto
 
 - `index.html`: Arquivo principal com a estrutura da landing page.
-- `style.css`: Arquivo de estilo gerado a partir do Sass, contendo toda a estilização do projeto.
-- `style.scss`: Arquivo fonte Sass para estilização mais eficiente.
+- `CSS/`: Pasta contendo o arquivo de estilo gerado a partir do Sass, contendo toda a estilização do projeto.
+- `Sass/`: Pasta contendo o arquivo fonte Sass para estilização mais eficiente.
 - `Musica/`: Pasta contendo o arquivo de música utilizado no player.
 - `Imagens/`: Pasta contendo as imagens de depoimentos.
 - `Video/`: Pasta contendo o video para recursos visuais usados no Hero Section.
